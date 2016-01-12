@@ -1,0 +1,28 @@
+name: Ats
+favicon: null
+layout_spectrum: 0.11869787564501166
+typography_spectrum: 0.8359806593507528
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.676666971296072
+  lightness: 0.9556482483167201
+  saturation: 0.6477205960545689
+  rhythmicContrast: 0.06016618083231151
+purpose: []
